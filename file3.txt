@@ -1,2 +1,2 @@
-This is file3 which is created in Branch1
-
+This file is created in Branch1
+This is file3 which is modified in Branch2
